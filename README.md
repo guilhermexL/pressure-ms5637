@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/virtus.png" width="300">
+  <img src="./assets/virtus.png">
 </div>
 
 # Driver do Sensor Barométrico MS5637 para Raspberry Pi Pico
